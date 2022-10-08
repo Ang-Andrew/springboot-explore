@@ -12,9 +12,13 @@
   <version>1.0</version>
 
   <!-- sub modules -->
-  <modules>
-    <module>StudentDemo</module>
-    <module>hello-world</module>
-  </modules>
+  <profiles>
+    <profile>
+      <modules>
+        <module>StudentDemo</module>
+        <module>hello-world</module>
+      </modules>
+    </profile>
+  </profiles>
   
 </project>
