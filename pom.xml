@@ -6,19 +6,16 @@
         <modelVersion>4.0.0</modelVersion>
 
   <!-- parent pom -->
-    <groupId>com.andrewang.multi</groupId>
-    <artifactId>java-multi-modules</artifactId>
-    <packaging>pom</packaging>
+  <groupId>com.andrewang.multi</groupId>
+  <artifactId>java-multi-modules</artifactId>
+  <packaging>pom</packaging>
   <version>1.0</version>
 
   <!-- sub modules -->
-  <profiles>
-    <profile>
-      <modules>
-        <module>StudentDemo</module>
-        <module>hello-world</module>
-      </modules>
-    </profile>
-  </profiles>
+  
+  <modules>
+    <module>StudentDemo</module>
+    <module>hello-world</module>
+  </modules>
   
 </project>
