@@ -1,0 +1,6 @@
+com/andrewang/demo/student/StudentConfig.class
+com/andrewang/demo/student/StudentController.class
+com/andrewang/demo/student/StudentService.class
+com/andrewang/demo/DemoApplication.class
+com/andrewang/demo/student/StudentRepository.class
+com/andrewang/demo/student/Student.class
